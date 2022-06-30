@@ -1,6 +1,5 @@
 from random import randint
 
-
 # Primero preguntaremos su nombre
 usuario = input('Escribe tu nombre: ')
 print(f'Bienvenido {usuario}\nPiensa un número del 1 al 100, cuidado solo tienes 8 intentos para adivinarlo' )
