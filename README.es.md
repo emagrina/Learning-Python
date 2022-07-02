@@ -27,7 +27,11 @@
  Estoy aprendiendo Python, y estoy haciendo varios mini proyectos, iremos incrementando la dificultad progresivamente.
 
 [<h2 id="project_1">Project 1: Adivina un número</h2>](Projects/Project_1)
-Próximamente...
+Consiste en adivinar un número del 1 al 100, teniendo 8 intentos para acertarlo, el programa nos indicará si el valor introducido es menor o mayor al número que hay que adivinar.
+![Learning-Python](.screenshots/img_project_1.png)
+
+### Demo:
+https://replit.com/@emagrina/Leaning-PythonProject1?v=1
 
 [<h2 id="project_2">Project 2: Juego del ahorcado</h2>](Projects/Project_2)
 Próximamente...
