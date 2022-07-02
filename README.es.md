@@ -28,6 +28,7 @@
 
 [<h2 id="project_1">Project 1: Adivina un número</h2>](Projects/Project_1)
 Consiste en adivinar un número del 1 al 100, teniendo 8 intentos para acertarlo, el programa nos indicará si el valor introducido es menor o mayor al número que hay que adivinar.
+
 ![Learning-Python](.screenshots/img_project_1.png)
 
 ### Demo:
