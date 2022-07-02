@@ -14,6 +14,7 @@ while (contador_fallos < 8 and acerto_el_valor == False ) :
     if(valor_agregado <= 100 and valor_agregado >= 1):
         if (valor_agregado == valor_random):
             acerto_el_valor = True
+            print(f'¡Felicidades {usuario}, acertaste el numero!')
         else:
             contador_fallos += 1
             if(valor_agregado > valor_random):
@@ -25,6 +26,3 @@ while (contador_fallos < 8 and acerto_el_valor == False ) :
                 print(f'/nLo sentimos, has perdido, el valor correcto era {valor_random}')
     else:
         print('ERROR: Inserte un valor entre el 1 y el 100')
-
-if(acerto_el_valor == True):
-    print(f'¡Felicidades {usuario}, acertaste el numero!')
