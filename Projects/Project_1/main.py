@@ -4,7 +4,6 @@ from random import randint
 usuario = input('Escribe tu nombre: ')
 print(f'Bienvenido {usuario}\nPiensa un número del 1 al 100, cuidado solo tienes 8 intentos para adivinarlo' )
 
-# Vamos a crear un bucle infinito que solo parara si acertamos el valor o fallamos 8 veces
 contador_fallos = 0
 acerto_el_valor = False
 valor_random = randint(1, 100)
