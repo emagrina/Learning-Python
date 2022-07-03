@@ -26,7 +26,7 @@
 ## Resumen
  Estoy aprendiendo Python, y estoy haciendo varios mini proyectos, iremos incrementando la dificultad progresivamente.
 
-[<h2 id="project_1">Project 1: Adivina un número</h2>](Projects/Project_1)
+[<h2 id="project_1">Project 1: Adivina un número</h2>](Projects/Project_01)
 Consiste en adivinar un número del 1 al 100, teniendo 8 intentos para acertarlo, el programa nos indicará si el valor introducido es menor o mayor al número que hay que adivinar.
 
 ![Learning-Python](.screenshots/img_project_1.png)
@@ -34,28 +34,28 @@ Consiste en adivinar un número del 1 al 100, teniendo 8 intentos para acertarlo
 ### Demo:
 https://replit.com/@emagrina/Leaning-PythonProject1?v=1
 
-[<h2 id="project_2">Project 2: Juego del ahorcado</h2>](Projects/Project_2)
+[<h2 id="project_2">Project 2: Juego del ahorcado</h2>](Projects/Project_02)
 Próximamente...
 
-[<h2 id="project_3">Project 3: Libro de recetas</h2>](Projects/Project_3)
+[<h2 id="project_3">Project 3: Libro de recetas</h2>](Projects/Project_03)
 Próximamente...
 
-[<h2 id="project_4">Project 4: Cuenta bancaria</h2>](Projects/Project_4)
+[<h2 id="project_4">Project 4: Cuenta bancaria</h2>](Projects/Project_04)
 Próximamente...
 
-[<h2 id="project_5">Project 5: Consola por turnos</h2>](Projects/Project_5)
+[<h2 id="project_5">Project 5: Consola por turnos</h2>](Projects/Project_05)
 Próximamente...
 
-[<h2 id="project_6">Project 6: Buscador de números de serie</h2>](Projects/Project_6)
+[<h2 id="project_6">Project 6: Buscador de números de serie</h2>](Projects/Project_06)
 Próximamente...
 
-[<h2 id="project_7">Project 7: Juego de invasión espacial</h2>](Projects/Project_7)
+[<h2 id="project_7">Project 7: Juego de invasión espacial</h2>](Projects/Project_07)
 Próximamente...
 
-[<h2 id="project_8">Project 8: Extractor de datos web</h2>](Projects/Project_8)
+[<h2 id="project_8">Project 8: Extractor de datos web</h2>](Projects/Project_08)
 Próximamente...
 
-[<h2 id="project_9">Project 9: Gestor de restaurante</h2>](Projects/Project_9)
+[<h2 id="project_9">Project 9: Gestor de restaurante</h2>](Projects/Project_09)
 Próximamente...
 
 [<h2 id="project_10">Project 10: Asistente de voz</h2>](Projects/Project_10)

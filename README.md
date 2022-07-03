@@ -26,7 +26,7 @@
 ## Overview
  I'm learning Python, and I'm doing several mini projects, we will gradually increase the difficulty.
 
-[<h2 id="project_1">Project 1: Guess a number</h2>](Projects/Project_1)
+[<h2 id="project_1">Project 1: Guess a number</h2>](Projects/Project_01)
 It consists of guessing a number from 1 to 100, having 8 attempts to get it right, the program will tell us if the entered value is less or greater than the number to be guessed.
 
 ![Learning-Python](.screenshots/img_project_1.png)
@@ -34,28 +34,28 @@ It consists of guessing a number from 1 to 100, having 8 attempts to get it righ
 ### Demo:
 https://replit.com/@emagrina/Leaning-PythonProject1?v=1
 
-[<h2 id="project_2">Project 2: Hangman game</h2>](Projects/Project_2)
+[<h2 id="project_2">Project 2: Hangman game</h2>](Projects/Project_02)
 Coming soon...
 
-[<h2 id="project_3">Project 3: Recipe book</h2>](Projects/Project_3)
+[<h2 id="project_3">Project 3: Recipe book</h2>](Projects/Project_03)
 Coming soon...
 
-[<h2 id="project_4">Project 4: Bank account</h2>](Projects/Project_4)
+[<h2 id="project_4">Project 4: Bank account</h2>](Projects/Project_04)
 Coming soon...
 
-[<h2 id="project_5">Project 5: Turn-based console</h2>](Projects/Project_5)
+[<h2 id="project_5">Project 5: Turn-based console</h2>](Projects/Project_05)
 Coming soon...
 
-[<h2 id="project_6">Project 6: Serial number finder</h2>](Projects/Project_6)
+[<h2 id="project_6">Project 6: Serial number finder</h2>](Projects/Project_06)
 Coming soon...
 
-[<h2 id="project_7">Project 7: Space invasion game</h2>](Projects/Project_7)
+[<h2 id="project_7">Project 7: Space invasion game</h2>](Projects/Project_07)
 Coming soon...
 
-[<h2 id="project_8">Project 8: Web data extractor</h2>](Projects/Project_8)
+[<h2 id="project_8">Project 8: Web data extractor</h2>](Projects/Project_08)
 Coming soon...
 
-[<h2 id="project_9">Project 9: Restaurant manager</h2>](Projects/Project_9)
+[<h2 id="project_9">Project 9: Restaurant manager</h2>](Projects/Project_09)
 Coming soon...
 
 [<h2 id="project_10">Project 10: Voice assistant</h2>](Projects/Project_10)
