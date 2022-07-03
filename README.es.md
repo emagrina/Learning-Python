@@ -32,10 +32,11 @@ Consiste en adivinar un número del 1 al 100, teniendo 8 intentos para acertarlo
 ![Learning-Python](.screenshots/img_project_1.png)
 
 ### Demo:
-https://replit.com/@emagrina/Leaning-PythonProject1?v=1
+https://replit.com/@emagrina/Learning-PythonProject1?v=1
 
 [<h2 id="project_2">Project 2: Juego del ahorcado</h2>](Projects/Project_02)
-Próximamente...
+El clásico juego del ahorcado, consiste en adivinar una palabra diciendo letras, si no lo consigues pierdes.
+![Learning-Python](.screenshots/img_project_2.png)
 
 [<h2 id="project_3">Project 3: Libro de recetas</h2>](Projects/Project_03)
 Próximamente...

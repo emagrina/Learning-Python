@@ -4,5 +4,5 @@ It consists of guessing a number from 1 to 100, having 8 attempts to get it righ
 ![Learning-Python](../../.screenshots/img_project_1.png)
 
 ### Demo:
-https://replit.com/@emagrina/Leaning-PythonProject1?v=1
+https://replit.com/@emagrina/Learning-PythonProject1?v=1
 
